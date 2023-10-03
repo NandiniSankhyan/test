@@ -1,4 +1,4 @@
-GitLab Release Management with Protected Branches
+#GitLab Release Management with Protected Branches
 Introduction
 This README file outlines the release management process for a GitLab project, focusing on the usage of protected branches to control the flow of code through different stages of development. There are three protected branches: pre-main, main, and production-release. Additionally, feature branches are not protected, which means they are used for development and testing purposes, and the real deployment occurs only on protected branches.
 
